@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "question": "Perguntamos a 100 homens qual a principal red flag que evitam em mulheres",
+    "answers": [
+      { "text": "Fala mal de toda a gente", "points": 28 },
+      { "text": "Ciumenta", "points": 23 },
+      { "text": "Considera-se influencer", "points": 19 },
+      { "text": "Não tem amigas mulheres", "points": 16 },
+      { "text": "Grita com empregados", "points": 14 }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Diz-me algo que nunca pedirias emprestado ao teu/tua melhor amigo/a",
+    "answers": [
+      { "text": "Escova de dentes", "points": 30 },
+      { "text": "Roupa interior", "points": 26 },
+      { "text": "Lâmina de barbear", "points": 18 },
+      { "text": "Telemóvel desbloqueado", "points": 12 },
+      { "text": "Carro com o depósito vazio", "points": 9 },
+      { "text": "Vibrador", "points": 5 }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Perguntamos a 100 mulheres qual a principal red flag que evitam num homem",
+    "answers": [
+      { "text": "Alpha Male", "points": 24 },
+      { "text": "Falta de inteligência emocional", "points": 21 },
+      { "text": "Expectativa de pagar tudo", "points": 17 },
+      { "text": "Segue 100 modelos no IG", "points": 14 },
+      { "text": "Carecas cedo", "points": 13 },
+      { "text": "Nunca encontram o clitóris", "points": 11 }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Diz-me algo que é preto e brilhante",
+    "answers": [
+      { "text": "Carro novo", "points": 27 },
+      { "text": "Cabelo bem tratado", "points": 23 },
+      { "text": "Sapatos de verniz", "points": 18 },
+      { "text": "Latex", "points": 15 },
+      { "text": "Óculos de sol", "points": 10 },
+      { "text": "Mandingo", "points": 7 }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Diz-me o motivo que justificaria beber a uma quarta-feira às 3 da tarde",
+    "answers": [
+      { "text": "Desemprego", "points": 26 },
+      { "text": "Férias!", "points": 23 },
+      { "text": "Acabaste uma relação", "points": 20 },
+      { "text": "Aniversário", "points": 12 },
+      { "text": "Promoção no trabalho", "points": 11 },
+      { "text": "Porque eu quero", "points": 8 }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Diz-me algo associado ao S.João",
+    "answers": [
+      { "text": "Martelo de S.João", "points": 23 },
+      { "text": "Sardinhada", "points": 21 },
+      { "text": "Música Pimba", "points": 19 },
+      { "text": "Cheiro de Manjerico", "points": 14 },
+      { "text": "Velhas a dançar", "points": 12 },
+      { "text": "Turistas", "points": 11 }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Perguntamos a 100 portugueses, qual a pior cidade portuguesa para visitar",
+    "answers": [
+      { "text": "Amadora", "points": 25 },
+      { "text": "Setúbal", "points": 18 },
+      { "text": "Barreiro", "points": 16 },
+      { "text": "Cacém", "points": 14 },
+      { "text": "Vila Real", "points": 13 },
+      { "text": "Leiria", "points": 11 }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Diz-me uma razão pela qual uma saída à noite pode acabar mais cedo",
+    "answers": [
+      { "text": "Viste o teu ex", "points": 25 },
+      { "text": "Apagaste antes de sair de casa", "points": 22 },
+      { "text": "Envolveste-te em porrada", "points": 20 },
+      { "text": "Foste barrado à entrada", "points": 17 },
+      { "text": "Discussão dentro do grupo", "points": 16 }
+    ]
+  }
+]
